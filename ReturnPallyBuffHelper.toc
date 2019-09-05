@@ -1,0 +1,9 @@
+## Title: ReturnPallyBuffHelper
+## Interface: 11302
+## Version: 0.1
+## Author: Irpa
+## SavedVariablesPerCharacter: ReturnPallyBuffHelperDBPerChar
+## X-Category: Interface Enhancements
+
+# main
+ReturnPallyBuffHelper.lua
